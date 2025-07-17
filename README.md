@@ -33,5 +33,6 @@ cd MicrosoftRewardsAutomate
 
 2. Install Python packages
 pip install selenium webdriver-manager
+```
 
-Change your base query every day :)
+Remember to change your base query everyday;)
